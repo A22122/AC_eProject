@@ -11,98 +11,116 @@
 </head>
 
 <!-- HEADER - NAV -->
-<table>
-    <tr>
-        <td>
-            <img src="asset/img/logo.png" alt="Logo" class="img">
-        </td>
-        <td>
-            <div class="centered"><img src="asset/img/logo2.png" alt="Logo2"></div>
-        </td>
-    </tr>
-</table>
-<div id="wrapper">
-    <div id="header">
-        <nav class="container">
-            <ul id="main-menu">
-                <li><a href="index.html">Home</a></li>
-                <li><a href="">Product</a>
-                    <ul class="sub-menu">
-                        <li><a href="">Split AC</a></li>
-                        <li><a href="">Window AC</a></li>
-                        <li><a href="">Cassette AC</a></li>
-                    </ul>
-                </li>
-                <li><a href="">About</a></li>
-                <li><a href="">Services</a></li>
-            </ul>
-        </nav>
-    </div>
-</div>
-<!-- PRODUCTS -->
+<div class="scroll-container">
     <table>
-        
+        <tr>
+            <td>
+                <img src="asset/img/logo.png" alt="Logo" class="img">
+            </td>
+            <td>
+                <div class="centered"><img src="asset/img/logo2.png" alt="Logo2"></div>
+            </td>
+        </tr>
     </table>
-<!-- FOOTER -->
-<footer id="footer">
-    <div class="footer-container">
-        <div class="company-name">
-            <h3 class="">HDD Air Conditioner</h3>
-            <p>Beat the heat, come with us!</p>
+    <div id="wrapper">
+        <div id="header">
+            <nav class="container">
+                <ul id="main-menu">
+                    <li><a href="index.html">Home</a></li>
+                    <li><a href="">Product</a>
+                        <ul class="sub-menu">
+                            <li><a href="">Split AC</a></li>
+                            <li><a href="">Window AC</a></li>
+                            <li><a href="">Cassette AC</a></li>
+                        </ul>
+                    </li>
+                    <li><a href="">About</a></li>
+                    <li><a href="">Services</a></li>
+                </ul>
+            </nav>
         </div>
-        <div class="quick-links">
-            <h3>Quick links</h3>
-            <ul class="quick-links-info">
-                <li><a href="#">Site map</a></li>
-                <li><a href="#">Gallery</a></li>
-                <li><a href="FAQ.html">FAQ</a></li>
+    </div>
+    <!-- PRODUCTS -->
+    <div class="box_product_information">
+        <div class="box_hinhanh">
+            <img src="asset/img/SplitAC1.jpg" data-zoom-image="imgs/op-lung-sony-z3-pelosi-50.jpg"  width="200" height="200" />
+            <ul class="hinhanhphongto">
+            <li><img src="asset/img/SplitAC1.jpg" id="zoom_01" width="70" height="70" /></li>
             </ul>
         </div>
-        <div class="contact">
-            <h3 class="">Contact Us</h3>
-            <div class="">
-                <div class="company-info">
-                    <p><i class="bi bi-geo-alt"></i> Can Tho, Viet Nam</p>
-                    <p><i class="bi bi-telephone"></i> Phone: <a href="tel:+84 123456">+84 123456</a> </p>
-                    <p><i class="bi bi-envelope"></i> Email: <a href="mailto:info@hddac.com"> info@hddac.com</p>
+    <div class="box_info">
+        <form>
+            <p><strong>Tên sản phẫm: </strong></p>
+            <p><strong>Mã sản phẩm:</strong> <b>
+            <p><strong>Giá bán:</strong><span style="color:red;"></span></p>
+            <p style="color:#000;"><strong> Tình trạng:</strong> <b>Còn hàng</b> </p>
+            <p><strong>Số lượng:</strong><input type="text" name="soluong" size="3" value="1" /></p>
+            <input type="submit" name="add_to_cart" value="Mua hàng"
+                style="margin:10px;width:100px;height:40px;background:#9F6;color:#000;font-size:18px;border-radius:8px;" />
+
+        </form>
+        <!-- FOOTER -->
+        <footer id="footer">
+            <div class="footer-container">
+                <div class="company-name">
+                    <h3 class="">HDD Air Conditioner</h3>
+                    <p>Beat the heat, come with us!</p>
                 </div>
-                <div class="contact-form">
-                    <form action="">
-                        <div class="">
-                            <div class="feedback-submit-name">
-                                <input type="text" name="" placeholder="Name" required id="" class="feedback-control">
-                            </div>
-                            <div class="feedback-submit-email">
-                                <input type="email" name="" placeholder="abc@gmail.com" required id=""
-                                    class="feedback-control">
-                            </div>
-                            <div class="feedback-submit-message">
-                                <input type="text" name="" placeholder="Message" required id=""
-                                    class="feedback-control">
-                            </div>
+                <div class="quick-links">
+                    <h3>Quick links</h3>
+                    <ul class="quick-links-info">
+                        <li><a href="#">Site map</a></li>
+                        <li><a href="#">Gallery</a></li>
+                        <li><a href="FAQ.html">FAQ</a></li>
+                    </ul>
+                </div>
+                <div class="contact">
+                    <h3 class="">Contact Us</h3>
+                    <div class="">
+                        <div class="company-info">
+                            <p><i class="bi bi-geo-alt"></i> Can Tho, Viet Nam</p>
+                            <p><i class="bi bi-telephone"></i> Phone: <a href="tel:+84 123456">+84 123456</a> </p>
+                            <p><i class="bi bi-envelope"></i> Email: <a href="mailto:info@hddac.com"> info@hddac.com</p>
                         </div>
-                        <div class="contact-submit-btn">
-                            <input type="submit" value="SEND" id="submit">
+                        <div class="contact-form">
+                            <form action="">
+                                <div class="">
+                                    <div class="feedback-submit-name">
+                                        <input type="text" name="" placeholder="Name" required id=""
+                                            class="feedback-control">
+                                    </div>
+                                    <div class="feedback-submit-email">
+                                        <input type="email" name="" placeholder="abc@gmail.com" required id=""
+                                            class="feedback-control">
+                                    </div>
+                                    <div class="feedback-submit-message">
+                                        <input type="text" name="" placeholder="Message" required id=""
+                                            class="feedback-control">
+                                    </div>
+                                </div>
+                                <div class="contact-submit-btn">
+                                    <input type="submit" value="SEND" id="submit">
+                                </div>
+                            </form>
                         </div>
-                    </form>
+                    </div>
+                </div>
+                <div class="google-map">
+                    <iframe
+                        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3928.7895115063156!2d105.77711207468606!3d10.034220990072926!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31a0881fa2f86433%3A0xee52427c850bbc0d!2zMSDEkC4gTMO9IFThu7EgVHLhu41uZywgVMOibiBBbiwgTmluaCBLaeG7gXUsIEPhuqduIFRoxqEsIFZp4buHdCBOYW0!5e0!3m2!1svi!2s!4v1684148932929!5m2!1svi!2s"
+                        allowfullscreen="" referrerpolicy="no-referrer-when-downgrade"></iframe>
                 </div>
             </div>
-        </div>
-        <div class="google-map">
-            <iframe
-                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3928.7895115063156!2d105.77711207468606!3d10.034220990072926!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31a0881fa2f86433%3A0xee52427c850bbc0d!2zMSDEkC4gTMO9IFThu7EgVHLhu41uZywgVMOibiBBbiwgTmluaCBLaeG7gXUsIEPhuqduIFRoxqEsIFZp4buHdCBOYW0!5e0!3m2!1svi!2s!4v1684148932929!5m2!1svi!2s"
-                allowfullscreen="" referrerpolicy="no-referrer-when-downgrade"></iframe>
-        </div>
-    </div>
-    <div class="social-items">
-        <a href="#"><i class="bi bi-facebook"></i></a>
-        <a href="#"><i class="bi bi-twitter"></i></a>
-        <a href="#"><i class="bi bi-instagram"></i></a>
-    </div>
-    <div class="copyright">
-        <p>Copyright by HDD Air Conditioner © 2023</p>
-    </div>
-</footer>
-</body>
+            <div class="social-items">
+                <a href="#"><i class="bi bi-facebook"></i></a>
+                <a href="#"><i class="bi bi-twitter"></i></a>
+                <a href="#"><i class="bi bi-instagram"></i></a>
+            </div>
+            <div class="copyright">
+                <p>Copyright by HDD Air Conditioner © 2023</p>
+            </div>
+        </footer>
 
-</html>
+        </body>
+
+        </html>

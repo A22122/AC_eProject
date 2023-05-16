@@ -105,8 +105,42 @@ nav {
 #main-menu>li:hover>a::before {
   width: 100%;
 }
-
-
+/* Products */
+.table1 {
+  border: 1px solid black;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.td1 {
+  border: 1px solid black;
+}
+.tr1 {
+  border: 1px solid black;
+}
+.th1 {
+  border: 1px solid black;
+}
+.left1 {
+  margin-left: 10px;
+}
+.scroll-container {
+  height: 1000px;
+  overflow: auto; 
+}
+.box_product_information{
+	width:98%;
+	height:300px;
+	margin:2px;
+}
+.box_info{
+	width:64%;
+	height:300px;
+	border-left:1px solid #000;
+	float:right;
+	padding-left:5px;
+}
 /* Footer */
 #footer {
   background-color: #282d32;
