@@ -1,0 +1,226 @@
+[
+  {
+    "id": 1,
+    "brand": "Gree",
+    "name": "Gree GWC09BC-K6DNA1B",
+    "price": "$827.65",
+    "rating": 3.5,
+    "picture": "assets/images/ac/ac4.jpg"
+  },
+  {
+    "id": 2,
+    "brand": "Panasonic",
+    "name": "Panasonic FTKC25UAVMV",
+    "price": "$1,266.53",
+    "rating": 4,
+    "picture": "assets/images/ac/ac7.jpg"
+  },
+  {
+    "id": 3,
+    "brand": "Gree",
+    "name": "Gree FTF25XAV1V",
+    "price": "$720.95",
+    "rating": 3.5,
+    "picture": "assets/images/ac/ac1.jpg"
+  },
+  {
+    "id": 4,
+    "brand": "Panasonic",
+    "name": "Panasonic SJ-FXP640VG-BK",
+    "price": "$1,833.12",
+    "rating": 5,
+    "picture": "assets/images/ac/ac2.jpg"
+  },
+  {
+    "id": 5,
+    "brand": "Panasonic",
+    "name": "Panasonic CTKM25RVMV",
+    "price": "$1,827.85",
+    "rating": 4,
+    "picture": "assets/images/ac/ac8.jpg"
+  },
+  {
+    "id": 6,
+    "brand": "Toshiba",
+    "name": "Toshiba BYFQ60B3W1",
+    "price": "$915.75",
+    "rating": 4,
+    "picture": "assets/images/ac/ac7.jpg"
+  },
+  {
+    "id": 7,
+    "brand": "Samsung",
+    "name": "Samsung Windfree AC",
+    "price": "$1,789.89",
+    "rating": 5,
+    "picture": "assets/images/ac/ac7.jpg"
+  },
+  {
+    "id": 8,
+    "brand": "Gree",
+    "name": "Gree LIVO GEN4",
+    "price": "$1,127.78",
+    "rating": 3,
+    "picture": "assets/images/ac/ac2.jpg"
+  },
+  {
+    "id": 9,
+    "brand": "Gree",
+    "name": "Gree VIREO GEN3",
+    "price": "$1,072.60",
+    "rating": 4.5,
+    "picture": "assets/images/ac/ac5.jpg"
+  },
+  {
+    "id": 10,
+    "brand": "Hitachi",
+    "name": "Hitachi SAPPHIRE",
+    "price": "$1,748.30",
+    "rating": 3.5,
+    "picture": "assets/images/ac/ac5.jpg"
+  },
+  {
+    "id": 11,
+    "brand": "LG",
+    "name": "LG MULTI+ ULTRA",
+    "price": "$1,182.98",
+    "rating": 4,
+    "picture": "assets/images/ac/ac4.jpg"
+  },
+  {
+    "id": 12,
+    "brand": "Samsung",
+    "name": "Samsung MULTIPRO",
+    "price": "$1,737.31",
+    "rating": 4.5,
+    "picture": "assets/images/ac/ac3.jpg"
+  },
+  {
+    "id": 13,
+    "brand": "Toshiba",
+    "name": "Toshiba MSY-JW60VF",
+    "price": "$723.92",
+    "rating": 5,
+    "picture": "assets/images/ac/ac8.jpg"
+  },
+  {
+    "id": 14,
+    "brand": "Toshiba",
+    "name": "Toshiba MSY-JP50VF",
+    "price": "$1,984.99",
+    "rating": 5,
+    "picture": "assets/images/ac/ac1.jpg"
+  },
+  {
+    "id": 15,
+    "brand": "LG",
+    "name": "LG MAW08V1QWT",
+    "price": "$1,458.16",
+    "rating": 4.5,
+    "picture": "assets/images/ac/ac6.jpg"
+  },
+  {
+    "id": 16,
+    "brand": "Hitachi",
+    "name": "Hitachi SC-3C50",
+    "price": "$1,931.82",
+    "rating": 3.5,
+    "picture": "assets/images/ac/ac8.jpg"
+  },
+  {
+    "id": 17,
+    "brand": "Panasonic",
+    "name": "Panasonic AMS150-PB",
+    "price": "$1,335.77",
+    "rating": 4.5,
+    "picture": "assets/images/ac/ac6.jpg"
+  },
+  {
+    "id": 18,
+    "brand": "Hitachi",
+    "name": "Hitachi MAT10R2ZWT",
+    "price": "$1,838.90",
+    "rating": 3,
+    "picture": "assets/images/ac/ac7.jpg"
+  },
+  {
+    "id": 19,
+    "brand": "LG",
+    "name": "LG MAP12S1TBL",
+    "price": "$1,061.01",
+    "rating": 4.5,
+    "picture": "assets/images/ac/ac3.jpg"
+  },
+  {
+    "id": 20,
+    "brand": "Samsung",
+    "name": "Samsung AMS150-CJ",
+    "price": "$1,057.41",
+    "rating": 3.5,
+    "picture": "assets/images/ac/ac2.jpg"
+  },
+  {
+    "id": 21,
+    "brand": "Panasonic",
+    "name": "Panasonic SCK-3Q60B",
+    "price": "$1,967.10",
+    "rating": 4,
+    "picture": "assets/images/ac/ac6.jpg"
+  },
+  {
+    "id": 22,
+    "brand": "LG",
+    "name": "LG MAD35S1QWT",
+    "price": "$1,972.30",
+    "rating": 5,
+    "picture": "assets/images/ac/ac1.jpg"
+  },
+  {
+    "id": 23,
+    "brand": "Hitachi",
+    "name": "Hitachi MFS4022WARB",
+    "price": "$1,161.02",
+    "rating": 3,
+    "picture": "assets/images/ac/ac3.jpg"
+  },
+  {
+    "id": 24,
+    "brand": "Gree",
+    "name": "Gree MPF14CR81-E",
+    "price": "$784.01",
+    "rating": 4,
+    "picture": "assets/images/ac/ac1.jpg"
+  },
+  {
+    "id": 25,
+    "brand": "Panasonic",
+    "name": "Panasonic RAS-H10D2KCVG-V",
+    "price": "$846.05",
+    "rating": 4,
+    "picture": "assets/images/ac/ac8.jpg"
+  },
+  {
+    "id": 26,
+    "brand": "Toshiba",
+    "name": "Toshiba H13E2KCVG-V",
+    "price": "$1,476.26",
+    "rating": 3.5,
+    "picture": "assets/images/ac/ac2.jpg"
+  },
+  {
+    "id": 27,
+    "brand": "Panasonic",
+    "name": "Panasonic BYFQ60B3W1",
+    "price": "$1,759.46",
+    "rating": 5,
+    "picture": "assets/images/ac/ac6.jpg"
+  },
+  {
+    "id": 28,
+    "brand": "Gree",
+    "name": "Gree FFQ60BV1B9",
+    "price": "$1,563.14",
+    "rating": 4,
+    "picture": "assets/images/ac/ac7.jpg"
+  }
+]

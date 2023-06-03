@@ -5,6 +5,11 @@
       color: white;
     }
   }
+  .nav-item {
+    a:hover {
+      color: #A3ADFF
+    }
+  }
   ul {
     &.navbar-nav {
       .nav-item {
@@ -15,8 +20,8 @@
     }
   }
   .logo-image {
-    height: 100px;
-    width: 120px;
+    height: 80px;
+    width: 220px;
   }
 
   .counter {
